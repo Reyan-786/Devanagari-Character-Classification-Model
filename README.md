@@ -5,4 +5,4 @@ it was a 5 hour long hackathon in which we were given this problem of classifica
 On the unseen test data it performed with an accuracy of 88% ....
 
 
-P.S - it might be a very naive model but I achieved the 3rd prize for this model :)    ;;;;;;
+P.S - it might be a very naive model but I achieved the 3rd prize for this model and the prize money of INR 5000 :)    ;;;;;;
