@@ -6,3 +6,4 @@ On the unseen test data it performed with an accuracy of 88% ....
 
 
 P.S - it might be a very naive model but I achieved the 3rd prize for this model and the prize money of INR 5000 :)    ;;;;;;
+**Note** - I'll update this repo with a better model hopefully soon.... ;)
